@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Javascript test";
 ```
+
+- [ ] Finish this lesson
+- [ ] Do the next lesson
+- [ ] Finish the next lesson
